@@ -13,6 +13,6 @@ Height
 - PBT DSA OR 3D Print Keycaps
 - Bourns Encoders OR Joystick OR Arrow buttons
 - Aluminium OR 3D Print Knobs
-- Left and Right underglow RGB zones
+- Left and Right RGB underglow zones
 - Arduino Pro Micro
 - USB-C
